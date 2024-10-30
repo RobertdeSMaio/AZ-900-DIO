@@ -36,13 +36,13 @@ As próprias organizações são responsáveis pela manutenção de hardware e s
 
 Entrega de serviços ou recursos para múltiplos clientes a partir de um único provedor (Microsoft).
 
-Vamos imaginar que estamos contratando serviços de computação, Inteligência artificial, bancos de dados, segurança, esses serviços podem ser contratados por vários clientes de vários lugares do mundo.
+Estamos contratando serviços de computação, Inteligência artificial, bancos de dados, segurança, esses serviços podem ser contratados por vários clientes de vários lugares do mundo.
 
 Acesso de recursos via conexão de rede segura.
 
 ### Características
 
-Nenhuma despesa de capital (CapEx) para escala vertical. Falando de custos, vale pensar que estamos pagando em virtude de alguns fatores, como o tempo que esse serviço está rodando, em que local ele está ativo.
+Nenhuma despesa de capital (CapEx) para escala vertical. Falando de custos, estamos pagando em virtude de alguns fatores, como o tempo que esse serviço está rodando, em que local ele está ativo.
 
 Aplicações podem ser providos e derrubados rapidamente.
 
@@ -51,7 +51,6 @@ Organizações/Empresas/Usuários pagam apenas pelo que utilizam. Pay as you go.
 A manutenção de recursos e software deve ser responsável pelo próprio provedor (Microsoft).
 
 ## Nuvem Híbrida
-Costuma-se dizer que é o melhor das duas nuvens.
 
 Podemos usar nossa nuvem privada, entretanto podemos ter acesso a recurso que são disponibilizados dentro de recurso que temos em nuvem pública.
 
@@ -76,7 +75,7 @@ Despesas relacionadas a criação de ambiente.
 ## OpEx - Despesas de Operação
 Modelo baseado em consumo. Provedores de nuvem operam nesse modelo, o que significa que usuário pagam apenas pelo que usam.
 
-Melhor previsão de custos.
+Tendo melhor previsão de custos.
 
 São fornecidos preços para recursos e serviços individuais.
 
