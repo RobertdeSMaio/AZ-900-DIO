@@ -18,7 +18,7 @@ Quando se quer criar recursos de maneira muito rápida e escaláveis, entretanto
 
 # Modelos de nuvem
 
-##Nuvem Privada
+## Nuvem Privada
 
 O nome é intuitivo, estamos tratando de um ambiente em nuvem configurado apenas em seu datacenter. Não sendo compartilhado com outras organizações/usuários.
 
@@ -26,13 +26,13 @@ As próprias organizações são responsáveis por operar os serviços disponibi
 
 Usuários fora da organização não possuem acesso a esses serviços.
 
-###Características
+### Características
 
 Lembrando que estamos tratando de um ambiente físico, então organizações tem controle total sobre acesso de recursos e segurança de suas aplicações.
 
 As próprias organizações são responsáveis pela manutenção de hardware e software.
 
-##Nuvem Pública
+## Nuvem Pública
 
 Entrega de serviços ou recursos para múltiplos clientes a partir de um único provedor (Microsoft).
 
@@ -40,7 +40,7 @@ Vamos imaginar que estamos contratando serviços de computação, Inteligência 
 
 Acesso de recursos via conexão de rede segura.
 
-###Características
+### Características
 
 Nenhuma despesa de capital (CapEx) para escala vertical. Falando de custos, vale pensar que estamos pagando em virtude de alguns fatores, como o tempo que esse serviço está rodando, em que local ele está ativo.
 
@@ -50,20 +50,20 @@ Organizações/Empresas/Usuários pagam apenas pelo que utilizam. Pay as you go.
 
 A manutenção de recursos e software deve ser responsável pelo próprio provedor (Microsoft).
 
-##Nuvem Híbrida
+## Nuvem Híbrida
 Costuma-se dizer que é o melhor das duas nuvens.
 
 Podemos usar nossa nuvem privada, entretanto podemos ter acesso a recurso que são disponibilizados dentro de recurso que temos em nuvem pública.
 
-###Características
+### Características
 
 As organizações determinam onde querem criar suas aplicações. Ex: Empresa brasileira cria servidor no EUA por menor custo.
 
 Também controlam segurança, conformidade e requisitos legais, ou seja, a própria cloud provider fornece os recursos de segurança, mas eu como organização decido se vou e como vou usar.
 
-#CapEx e OpEx
+# CapEx e OpEx
 
-##CapEx - Despesas de Capital
+## CapEx - Despesas de Capital
 
 ###Gasto relacionado a infraestrutura física.
 
@@ -73,7 +73,7 @@ Possuem um valor que se reduz ao longo do tempo. Se tratando de recursos estrutu
 
 Despesas relacionadas a criação de ambiente.
 
-##OpEx - Despesas de Operação
+## OpEx - Despesas de Operação
 Modelo baseado em consumo. Provedores de nuvem operam nesse modelo, o que significa que usuário pagam apenas pelo que usam.
 
 Melhor previsão de custos.
